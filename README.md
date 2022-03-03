@@ -43,7 +43,7 @@ You can stream audio or video files, YouTube videos with any duration,
 YouTube lives, YouTube playlists and even custom live streams like radios or m3u8 links or files in
 the place it is hosted!
 
-### 📊 Streams in multiple places
+### 📊 Streams in multiple places🤿
 
 Allows you to stream different things in multiple chats simultaneously. Each
 chat will have its own song queue.
